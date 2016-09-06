@@ -1,0 +1,3 @@
+http://basic.com/test/master.html?ksj=kk&jjd=k
+http://basic.com/test/blubb.html?ksj=kk&jjd=k
+http://basic.com/test/blaaa.html?ksj=kk&jjd=k
